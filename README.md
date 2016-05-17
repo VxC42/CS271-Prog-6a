@@ -1,6 +1,8 @@
 # Prog-6a
 MASM - Program 6a - Computer Architecture and Assembly Language
 
+This program requires the [Irvine Library] (http://kipirvine.com/asm/examples/index.htm)
+
 ### Objectives:
 1. Designing, implementing, and calling low-level I/O procedures
 2. Implementing and using a macro
