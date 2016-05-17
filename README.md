@@ -29,32 +29,58 @@ MASM - Program 6a - Computer Architecture and Assembly Language
 
 #### Example (user input in *italics*):
 PROGRAMMING ASSIGNMENT 6: Designing low-level I/O procedures
+
 Written by: Sheperd Cooper
+
 Please provide 10 unsigned decimal integers.
+
 Each number needs to be small enough to fit inside a 32 bit register.
+
 After you have finished inputting the raw numbers I will display a list
+
 of the integers, their sum, and their average value.
+
 Please enter an unsigned number: *156*
+
 Please enter an unsigned number: *51d6fd*
+
 ERROR: You did not enter an unsigned number or your number was too big.
+
 Please try again: *34*
+
 Please enter an unsigned number: *186*
+
 Please enter an unsigned number: *15616148561615630*
+
 ERROR: You did not enter an unsigned number or your number was too big.
+
 Please try again: *-145*
+
 ERROR: You did not enter an unsigned number or your number was too big.
 Please try again: *345*
+
 Please enter an unsigned number: *5*
+
 Please enter an unsigned number: *23*
+
 Please enter an unsigned number: *51*
+
 Please enter an unsigned number: *0*
+
 Please enter an unsigned number: *56*
+
 Please enter an unsigned number: *11*
 
+
 You entered the following numbers:
+
 156, 34, 186, 345, 5, 23, 51, 0, 56, 11
 
+
 The sum of these numbers is: 867
+
 The average is: 86
+
+
 
 Thanks for playing!
